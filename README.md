@@ -24,6 +24,8 @@ Feel free to add new sections to this document. In this document there will not 
 - **Lottie animations -> [link](https://lottiefiles.com/)**
 - **Material design Guidelines -> [link](https://material.io/design)**
 - **App Icon Generator [link](https://appicon.co/)**
+- **Free Icons, music, photos [link](https://iconos8.es/)**
+-
 
 ## Books ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/book.png)
 - **Free library with many books of different topis. -> [link](https://openlibra.com/es/)**
